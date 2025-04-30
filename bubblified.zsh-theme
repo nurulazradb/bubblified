@@ -8,21 +8,21 @@
 blub_left=''
 blub_right=''
 
-prompt_symbol='-->'
+prompt_symbol=''
 
 user_symbol='%n'
-user_machine_symbol=' גּ '
+user_machine_symbol=' 󰘧 '
 machine_symbol='%M'
 
 filepath_symbol='%~'
 
-git_branch_symbol=''
+git_branch_symbol=''
 git_clean_symbol=''
 git_modified_symbol='•'
 git_added_symbol=''
 git_deleted_symbol=''
 git_renamed_symbol=''
-git_untracked_symbol='裸'
+git_untracked_symbol='#'
 git_copied_symbol=''
 git_unmerged_symbol='!'
 git_stashed_symbol=''
