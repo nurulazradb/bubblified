@@ -31,26 +31,26 @@ ssh_symbol='ssh'
 
 # COLOR CONSTANTS
 # NOTE: Possible values include zsh-color-strings like 'red', 'black', 'magenta' etc. Aswell as zsh-color-codes which you can list with the command 'spectrum_ls', e.g. '078' for the 78th color code.
-bubble_color='black'
+bubble_color='236'
 
-prompt_symbol_color='blue'
-prompt_symbol_error_color='red'
+prompt_symbol_color='075'
+prompt_symbol_error_color='203'
 
-user_color='yellow'
-user_machine_symbol_color='green'
-machine_color='magenta'
+user_color='209'
+user_machine_symbol_color='151'
+machine_color='176'
 
-filepath_color='blue'
+filepath_color='075'
 
-git_clean_color='green'
-git_unstaged_color='yellow'
-git_staged_color='magenta' 
-git_stashed_color='blue'
-git_unmerged_color='red'
-git_symbols_color='black'
+git_clean_color='151'
+git_unstaged_color='209'
+git_staged_color='176' 
+git_stashed_color='075'
+git_unmerged_color='203'
+git_symbols_color='145'
 
-ssh_symbol_color='black'
-ssh_bubble_color='green'
+ssh_symbol_color='145'
+ssh_bubble_color='151'
 
 # HELPER FUNCTIONS
 bubblify () {
